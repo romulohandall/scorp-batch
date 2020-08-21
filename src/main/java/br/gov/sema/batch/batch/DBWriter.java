@@ -1,7 +1,7 @@
-package com.techprimers.springbatchexample1.batch;
+package br.gov.sema.batch.batch;
 
-import com.techprimers.springbatchexample1.model.User;
-import com.techprimers.springbatchexample1.repository.UserRepository;
+import br.gov.sema.batch.model.User;
+import br.gov.sema.batch.repository.UserRepository;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

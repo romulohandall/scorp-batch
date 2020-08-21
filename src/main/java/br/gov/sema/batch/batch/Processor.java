@@ -1,6 +1,6 @@
-package com.techprimers.springbatchexample1.batch;
+package br.gov.sema.batch.batch;
 
-import com.techprimers.springbatchexample1.model.User;
+import br.gov.sema.batch.model.User;
 import org.springframework.batch.item.ItemProcessor;
 import org.springframework.stereotype.Component;
 

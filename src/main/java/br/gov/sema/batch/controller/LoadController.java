@@ -1,4 +1,4 @@
-package com.techprimers.springbatchexample1.controller;
+package br.gov.sema.batch.controller;
 
 import org.springframework.batch.core.*;
 import org.springframework.batch.core.launch.JobLauncher;

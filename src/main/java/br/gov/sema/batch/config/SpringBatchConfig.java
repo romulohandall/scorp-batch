@@ -1,6 +1,6 @@
-package com.techprimers.springbatchexample1.config;
+package br.gov.sema.batch.config;
 
-import com.techprimers.springbatchexample1.model.User;
+import br.gov.sema.batch.model.User;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
